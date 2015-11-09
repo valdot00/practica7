@@ -1,0 +1,23 @@
+<html>
+     <head>
+          <title>
+          </title>
+     </head> 
+<body>
+<form metodo="post" action="agregar.php">
+<fieldset>
+<legend>ingrese sus datos</legend>
+</br>
+
+<p>titulo:<p>
+<input type="text" name="titulo" />
+<p>contenido:<p>
+<input type="text" name="contenido" /></br></br>
+
+<input type="submit" value="guardar" />
+</fieldser>
+</form>
+
+</body>  
+
+</html>
